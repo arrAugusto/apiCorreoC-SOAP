@@ -1,0 +1,10 @@
+C:\Users\agr12\source\repos\corpEmail\corpEmail\obj\Debug\corpEmail.csprojAssemblyReference.cache
+C:\Users\agr12\source\repos\corpEmail\corpEmail\obj\Debug\corpEmail.csproj.CoreCompileInputs.cache
+C:\Users\agr12\source\repos\corpEmail\corpEmail\bin\corpEmail.dll.config
+C:\Users\agr12\source\repos\corpEmail\corpEmail\bin\corpEmail.dll
+C:\Users\agr12\source\repos\corpEmail\corpEmail\bin\corpEmail.pdb
+C:\Users\agr12\source\repos\corpEmail\corpEmail\bin\MySql.Data.dll
+C:\Users\agr12\source\repos\corpEmail\corpEmail\bin\MySql.Web.dll
+C:\Users\agr12\source\repos\corpEmail\corpEmail\obj\Debug\corpEmail.csproj.CopyComplete
+C:\Users\agr12\source\repos\corpEmail\corpEmail\obj\Debug\corpEmail.dll
+C:\Users\agr12\source\repos\corpEmail\corpEmail\obj\Debug\corpEmail.pdb
