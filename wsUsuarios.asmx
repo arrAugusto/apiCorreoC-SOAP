@@ -1,1 +1,1 @@
-﻿<%@ WebService Language="C#" CodeBehind="wsUsuarios.asmx.cs" Class="corpEmail.wsUsuarios" %>
+﻿<%@ WebService Language="C#" CodeBehind="wsUsuarios.asmx.cs" Class="wsEmailCorp.wsUsuarios" %>
